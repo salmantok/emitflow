@@ -1,0 +1,29 @@
+{
+  "name": "emitflow",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./dist/cjs/emitflow.js",
+  "module": "./dist/esm/emitflow.js",
+  "files": [
+    "./dist/"
+  ],
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emitflow",
+    "emit",
+    "flow",
+    "event emitter",
+    "event",
+    "emitter"
+  ],
+  "author": "salmantok",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmantok/emitflow.git"
+  },
+  "homepage": "https://github.com/salmantok/emitflow#readme"
+}
